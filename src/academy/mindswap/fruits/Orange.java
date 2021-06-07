@@ -1,4 +1,4 @@
-package academy.mindswap.fruit;
+package academy.mindswap.fruits;
 
 public class Orange extends Fruit{
 	public Orange(int acidity) {

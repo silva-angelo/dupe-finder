@@ -1,4 +1,4 @@
-package academy.mindswap.fruit;
+package academy.mindswap.fruits;
 
 import java.util.Objects;
 

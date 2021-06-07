@@ -1,7 +1,7 @@
 package academy.mindswap;
 
-import academy.mindswap.fruit.Fruit;
-import academy.mindswap.fruit.FruitTypes;
+import academy.mindswap.fruits.Fruit;
+import academy.mindswap.fruits.FruitTypes;
 
 public class Main {
 	public static void main(String[] args) {
